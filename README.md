@@ -1,6 +1,7 @@
 # spacecraft-design
 
 Link Budget
+
 P_t = transmitter power
 L_l = transmitter-to-antenna line loss
 G_t = transmit antenna gain
